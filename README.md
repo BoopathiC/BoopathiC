@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BoopathiC/GitHub_Profile/main/boopathi%20c%20(3).png" alt="Boopathi's photo" width="300" style="border-radius: 50%; border: 3px solid #555;" />
+  <img src="https://raw.githubusercontent.com/BoopathiC/BoopathiC/main/boopathi%20c%20(3).png" alt="Boopathi's photo" width="300" style="border-radius: 50%; border: 3px solid #555;" />
 </p>
 
 ---
